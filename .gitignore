@@ -1,0 +1,8 @@
+.cache
+build
+graphics
+*.mp4
+*.gba
+*.elf
+*.sav
+compile_commands.json
