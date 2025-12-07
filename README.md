@@ -10,7 +10,7 @@ Build a Gameboy Advance executable that plays your favorite videos!
 - [devkitPro gba-dev packages](https://devkitpro.org/wiki/Getting_Started)
 - [ffmpeg](https://www.ffmpeg.org/)
 - [Python 3](https://www.python.org/downloads/)
-- [wget](https://www.gnu.org/software/wget/)
+
 
 # Usage 
 
