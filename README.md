@@ -1,6 +1,6 @@
 # About
 
-Build a Gameboy Advance Executable that plays your favorite videos!
+Build a Gameboy Advance executable that plays your favorite videos!
 
 (Reminder: Put a screenshot/gif here)
 
