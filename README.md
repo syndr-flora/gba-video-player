@@ -20,7 +20,7 @@ git clone https://github.com/syndr-flora/gba-video-player
 cd gba-video-player
 
 # Download an mp4 file
-curl -o badapple.mp4 https://github.com/Felixoofed/badapple-frames/raw/refs/heads/main/badapple.mp4
+wget https://github.com/Felixoofed/badapple-frames/raw/refs/heads/main/badapple.mp4
 
 # Run the build script
 chmod +x build.sh
